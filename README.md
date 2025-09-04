@@ -17,8 +17,8 @@ A simple full-stack application where users can input a prompt, and the system g
 
 ### 1. Clone project and install backend and frontend packages
 ```bash
-git clone https://github.com/YOUR_USERNAME/blog-generator.git
-cd blog-generator
+git clone https://github.com/Melaonn/AI-Blog.git
+cd AI-Blog
 
 
 cd backend
