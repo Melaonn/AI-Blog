@@ -8,3 +8,27 @@ A simple full-stack application where users can input a prompt, and the system g
 - Frontend: React -Vite + TailwindCSS
 - Backend: Node.js + Express
 - LLM: Cohere API (free tier)
+
+
+
+---
+
+## Setup to run on your system
+
+### 1. Clone project and install backend and frontend packages
+```bash
+git clone https://github.com/Melaonn/AI-Blog.git
+cd AI-Blog
+
+
+cd backend
+cp .env.example .env   # copy example env and get ur api from cohere website
+npm install
+npm start
+
+
+cd ../frontend
+npm install
+npm run dev
+
+
