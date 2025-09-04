@@ -22,13 +22,12 @@ cd AI-Blog
 
 
 cd backend
-cp .env.example .env   # copy example env and get ur api from cohere webpage
+cp .env.example .env   # copy example env and get ur api from cohere website
 npm install
 npm start
 
 
 cd ../frontend
-cp .env.example .env   # copy example env
 npm install
 npm run dev
 
