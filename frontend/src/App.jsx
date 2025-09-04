@@ -23,9 +23,9 @@ function App() {
   return (
     <div className="min-h-screen w-full bg-gradient-to-br from-indigo-50 via-white to-blue-50 flex flex-col items-center p-6 overflow-x-hidden">
       {/* Header */}
-      <h1 className="text-4xl font-extrabold text-indigo-700 mb-6 tracking-tight">
-        ✨ AI Blog Generator
-      </h1>
+    <h1 className="text-2xl font-extrabold text-indigo-700 mb-6 tracking-tight">
+  ✨ AI Blog Generator
+</h1>
 
       {/* Input */}
       <textarea
