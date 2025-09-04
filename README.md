@@ -15,7 +15,7 @@ A simple full-stack application where users can input a prompt, and the system g
 
 ## Setup to run on your system
 
-### 1. Clone project
+### 1. Clone project and install backend and frontend packages
 ```bash
 git clone https://github.com/YOUR_USERNAME/blog-generator.git
 cd blog-generator
